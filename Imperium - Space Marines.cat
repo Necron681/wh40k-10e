@@ -28541,11 +28541,11 @@ You can attach this model to one of the above units even if one Captain, Chapte
       </entryLinks>
       <infoLinks>
         <infoLink name="Finest Hour" type="profile" id="891a-e8c7-6549-4399" targetId="fdf1-64a5-906c-3474"/>
-        <infoLink name="Invulnerable Save" hidden="false" type="profile" id="951b-e78a-f956-b70" targetId="db19-dee7-9530-ef0e"/>
         <infoLink name="Leader" type="rule" id="2814-e93f-5a97-a2c6" targetId="b4dd-3e1f-41cb-218f"/>
         <infoLink id="8a13-952a-4a5-70e5" name="Rites of Battle" hidden="false" targetId="90c7-c55c-21e2-2232" type="profile"/>
         <infoLink name="Oath of Moment" hidden="false" type="rule" id="23b9-915-c3d6-3d21" targetId="3b76-4053-ece9-6e7d"/>
         <infoLink name="Templar Vows" id="cd01-df1f-c140-302e" hidden="false" type="rule" targetId="f26c-4b28-aaea-40cf"/>
+        <infoLink name="Invulnerable Save" hidden="false" type="profile" id="6872-c066-b1d2-b59f" targetId="db19-dee7-9530-ef0e"/>
       </infoLinks>
       <profiles>
         <profile id="c1ba-2289-ba1-9cb8" name="Captain" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -36500,6 +36500,7 @@ per turn.</characteristic>
         <categoryLink targetId="6e7-40c-58d9-e402" id="fe34-f998-983c-fb86" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="5179-8ede-45e3-49a2" id="f147-ed51-9cad-beec" primary="false" name="Tacticus"/>
         <categoryLink targetId="5a61-81ac-eb7c-a87e" id="6177-ede4-c0e2-89fe" primary="false" name="Grenades"/>
+        <categoryLink targetId="65e4-13-4fa8-b36c" id="cbdd-5c6a-88b8-75b7" primary="false" name="Faction: Salamanders"/>
       </categoryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="059f-141d-b353-f246"/>
@@ -36611,6 +36612,7 @@ per turn.</characteristic>
       <infoLinks>
         <infoLink name="Oath of Moment" hidden="false" type="rule" id="436f-4202-93fe-56e6" targetId="3b76-4053-ece9-6e7d"/>
         <infoLink name="Templar Vows" id="2126-4e40-609e-5184" hidden="false" type="rule" targetId="f26c-4b28-aaea-40cf"/>
+        <infoLink name="Invulnerable Save" id="4e6c-44a4-5c06-2cf7" hidden="false" type="rule" targetId="db19-dee7-9530-ef0e"/>
       </infoLinks>
       <modifierGroups>
         <modifierGroup type="and">
@@ -36727,7 +36729,6 @@ per turn.</characteristic>
         <infoLink name="Torrent" hidden="false" type="rule" id="e5c0-b091-2719-2da0" targetId="5edf-d619-23e0-9b56"/>
         <infoLink name="Melta" hidden="false" type="rule" id="feaa-03af-0c8f-df33" targetId="7cdb-fb99-44a9-8849"/>
       </infoLinks>
-      <comment>BS 3+</comment>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedProfiles>

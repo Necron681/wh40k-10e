@@ -36612,7 +36612,7 @@ per turn.</characteristic>
       <infoLinks>
         <infoLink name="Oath of Moment" hidden="false" type="rule" id="436f-4202-93fe-56e6" targetId="3b76-4053-ece9-6e7d"/>
         <infoLink name="Templar Vows" id="2126-4e40-609e-5184" hidden="false" type="rule" targetId="f26c-4b28-aaea-40cf"/>
-        <infoLink name="Invulnerable Save" id="4e6c-44a4-5c06-2cf7" hidden="false" type="rule" targetId="db19-dee7-9530-ef0e"/>
+        <infoLink name="Invulnerable Save" id="4e6c-44a4-5c06-2cf7" hidden="false" type="profile" targetId="db19-dee7-9530-ef0e"/>
       </infoLinks>
       <modifierGroups>
         <modifierGroup type="and">

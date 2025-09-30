@@ -36525,7 +36525,7 @@ per turn.</characteristic>
         </profile>
       </profiles>
       <selectionEntryGroups>
-        <selectionEntryGroup name="Pyroclasts" hidden="false" id="098a-c625-01ef-e1c5" sortIndex="2" defaultSelectionEntryId="none">
+        <selectionEntryGroup name="Pyroclasts" hidden="false" id="098a-c625-01ef-e1c5" sortIndex="2">
           <selectionEntries>
             <selectionEntry type="model" import="true" name="Pyroclasts" hidden="false" id="5563-4818-7ee2-518b">
               <constraints>
